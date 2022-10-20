@@ -16,7 +16,7 @@ import { VideoContext } from './context.js';
 import { EvaluateTime } from './utils';
 //import { VideoContext } from './context';
 import PropTypes from 'prop-types';
-import { withStyles, makeStyles } from '@mui/material/styles';
+import { withStyles, makeStyles } from '@mui/styles';
 import Tooltip from '@mui/material/Tooltip';
 
 

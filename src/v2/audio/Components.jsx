@@ -10,7 +10,7 @@ import { GiSpeedometer } from "react-icons/gi"
 import { ImLoop } from "react-icons/im"
 import { TiMediaRewindOutline, TiMediaFastForwardOutline } from "react-icons/ti"
 import Slider from '@mui/material/Slider';
-import { withStyles } from '@mui/material/styles';
+import { withStyles } from '@mui/styles';
 import Tooltip from '@mui/material/Tooltip';
 
 
