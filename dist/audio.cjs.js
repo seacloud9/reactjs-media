@@ -8,13 +8,13 @@ var _regeneratorRuntime = require('@babel/runtime/regenerator');
 var React = require('react');
 var PropTypes = require('prop-types');
 var md = require('react-icons/md');
-var Grid = require('@material-ui/core/Grid');
-var Slider = require('@material-ui/core/Slider');
-var IconButton = require('@material-ui/core/IconButton');
-var Typography = require('@material-ui/core/Typography');
-var Tooltip = require('@material-ui/core/Tooltip');
-var Menu = require('@material-ui/core/Menu');
-var MenuItem = require('@material-ui/core/MenuItem');
+var Grid = require('@mui/material/Grid');
+var Slider = require('@mui/material/Slider');
+var IconButton = require('@mui/material/IconButton');
+var Typography = require('@mui/material/Typography');
+var Tooltip = require('@mui/material/Tooltip');
+var Menu = require('@mui/material/Menu');
+var MenuItem = require('@mui/material/MenuItem');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

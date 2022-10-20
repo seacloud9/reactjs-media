@@ -8,16 +8,16 @@ import { IoCloseCircleOutline } from "react-icons/io5"
 import { CgClose } from "react-icons/cg"
 import { FiDownloadCloud } from "react-icons/fi"
 import { GiSpeedometer } from "react-icons/gi"
-import Grid from '@material-ui/core/Grid';
-import Typography from '@material-ui/core/Typography';
-import Slider from '@material-ui/core/Slider';
-import IconButton from '@material-ui/core/IconButton';
+import Grid from '@mui/material/Grid';
+import Typography from '@mui/material/Typography';
+import Slider from '@mui/material/Slider';
+import IconButton from '@mui/material/IconButton';
 import { VideoContext } from './context.js';
 import { EvaluateTime } from './utils';
 //import { VideoContext } from './context';
 import PropTypes from 'prop-types';
-import { withStyles, makeStyles } from '@material-ui/core/styles';
-import Tooltip from '@material-ui/core/Tooltip';
+import { withStyles, makeStyles } from '@mui/material/styles';
+import Tooltip from '@mui/material/Tooltip';
 
 
 

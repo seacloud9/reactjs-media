@@ -13,13 +13,13 @@ import {
     MdFileDownload,
     MdSettings
 } from 'react-icons/md'
-import Grid from '@material-ui/core/Grid';
-import Slider from '@material-ui/core/Slider';
-import IconButton from '@material-ui/core/IconButton';
-import Typography from '@material-ui/core/Typography';
-import Tooltip from '@material-ui/core/Tooltip';
-import Menu from '@material-ui/core/Menu';
-import MenuItem from '@material-ui/core/MenuItem';
+import Grid from '@mui/material/Grid';
+import Slider from '@mui/material/Slider';
+import IconButton from '@mui/material/IconButton';
+import Typography from '@mui/material/Typography';
+import Tooltip from '@mui/material/Tooltip';
+import Menu from '@mui/material/Menu';
+import MenuItem from '@mui/material/MenuItem';
 
 
 export const ReactAudio = (props) => {

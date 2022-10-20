@@ -1,7 +1,7 @@
 import React from 'react'
 import { MdPause, MdPlayArrow, MdAdd, MdRemove, MdFastRewind, MdFastForward, MdVolumeUp, MdVolumeDown, MdVolumeMute, MdVolumeOff, MdPictureInPictureAlt, MdFullscreenExit, MdFullscreen, MdSettings, MdFileDownload } from 'react-icons/md'
 import './Video.css'
-import Tooltip from '@material-ui/core/Tooltip';
+import Tooltip from '@mui/material/Tooltip';
 
 export const ControlsBar = React.forwardRef((props, ref) => {
     const { video, ctt, onMouseMove, ofwidth, onSeek, ct, calcTime, pause, play, rewind, foward, va, Mute, playing, fulls,

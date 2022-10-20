@@ -1,6 +1,6 @@
 (function (global, factory) {
-  typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@babel/runtime/helpers/asyncToGenerator'), require('@babel/runtime/helpers/slicedToArray'), require('@babel/runtime/regenerator'), require('react'), require('react-icons/md'), require('prop-types'), require('@material-ui/core/Tooltip')) :
-  typeof define === 'function' && define.amd ? define(['exports', '@babel/runtime/helpers/asyncToGenerator', '@babel/runtime/helpers/slicedToArray', '@babel/runtime/regenerator', 'react', 'react-icons/md', 'prop-types', '@material-ui/core/Tooltip'], factory) :
+  typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@babel/runtime/helpers/asyncToGenerator'), require('@babel/runtime/helpers/slicedToArray'), require('@babel/runtime/regenerator'), require('react'), require('react-icons/md'), require('prop-types'), require('@mui/material/Tooltip')) :
+  typeof define === 'function' && define.amd ? define(['exports', '@babel/runtime/helpers/asyncToGenerator', '@babel/runtime/helpers/slicedToArray', '@babel/runtime/regenerator', 'react', 'react-icons/md', 'prop-types', '@mui/material/Tooltip'], factory) :
   (global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global.ReactVideo = {}, global._asyncToGenerator, global._slicedToArray, global._regeneratorRuntime, global.React, global.md, global.PropTypes, global.Tooltip));
 })(this, (function (exports, _asyncToGenerator, _slicedToArray, _regeneratorRuntime, React, md, PropTypes, Tooltip) { 'use strict';
 

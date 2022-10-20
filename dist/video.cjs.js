@@ -8,7 +8,7 @@ var _regeneratorRuntime = require('@babel/runtime/regenerator');
 var React = require('react');
 var md = require('react-icons/md');
 var PropTypes = require('prop-types');
-var Tooltip = require('@material-ui/core/Tooltip');
+var Tooltip = require('@mui/material/Tooltip');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

@@ -9,9 +9,9 @@ import { FiDownloadCloud } from "react-icons/fi"
 import { GiSpeedometer } from "react-icons/gi"
 import { ImLoop } from "react-icons/im"
 import { TiMediaRewindOutline, TiMediaFastForwardOutline } from "react-icons/ti"
-import Slider from '@material-ui/core/Slider';
-import { withStyles } from '@material-ui/core/styles';
-import Tooltip from '@material-ui/core/Tooltip';
+import Slider from '@mui/material/Slider';
+import { withStyles } from '@mui/material/styles';
+import Tooltip from '@mui/material/Tooltip';
 
 
 
