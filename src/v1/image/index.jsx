@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import PropTypes from 'prop-types'
 import './Image.css'
 import { MdFileDownload } from 'react-icons/md';
-import { Tooltip } from '@material-ui/core';
+import { Tooltip } from '@mui/material/';
 
 export const Image = (props) => {
   const img = useRef(null)
